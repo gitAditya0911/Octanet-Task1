@@ -22,7 +22,7 @@ How to Run
 Clone the repository:
 
 Bash
-git clone https://your-repository-url.git
+git clone https://github.com/gitAditya0911/Octanet-Tasks.git
 Use code with caution.
 content_copy
 Open index.html:
